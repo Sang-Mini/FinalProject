@@ -2,11 +2,13 @@
 
 <p align="center">
   <br>
-  <img src="https://user-images.githubusercontent.com/105893642/202207345-8d2d459a-a926-4a5f-a3db-1e7408f02006.png"> 
+  <img src="https://user-images.githubusercontent.com/105893642/202247324-75dd27ed-09a4-445e-a61e-28d030237188.gif">
+  <br>
   welcome 페이지
   <br>
 </p>
 <br>
+
 
 ## 👐 프로젝트 소개
 
