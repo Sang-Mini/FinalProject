@@ -29,6 +29,11 @@
 | :--: | :----: | :------------: | :----: | :---: |
 | <img src="https://user-images.githubusercontent.com/105893642/202215723-95a7b438-75cd-494f-a4bf-79da1fe06f82.png" width="100px"> | <img src="https://user-images.githubusercontent.com/105893642/202217018-336ba025-b27b-47f7-bec9-5753aaa5fafa.png" width="90px"> | <img src="https://user-images.githubusercontent.com/105893642/202217411-9b051531-b398-4237-be47-6b91f54173b9.png" width="100px"> | <img src="https://user-images.githubusercontent.com/105893642/202218035-25277248-5249-4aa3-a963-32a4d5e74e4a.png" width="90px"> | <img src="https://user-images.githubusercontent.com/105893642/202218978-4612b90c-e5c1-468f-b397-4055c68f830b.png" width="80px"> |
 
+### AI
+| Python | PyTorch | Flask |
+| :----: | :-----: | :---: |
+| <img src="https://user-images.githubusercontent.com/105893642/202218035-25277248-5249-4aa3-a963-32a4d5e74e4a.png" width="90px"> | <img src="https://user-images.githubusercontent.com/105893642/202252271-2529a4ba-4c51-47a4-bdd6-4cbcdc04ed64.png" width="100px"> | <img src="https://user-images.githubusercontent.com/105893642/202218978-4612b90c-e5c1-468f-b397-4055c68f830b.png" width="80px"> |
+
 ### DB
 | MySQL |
 | :---: |
@@ -36,6 +41,7 @@
 
 ### Architecture
 <img width="1073" alt="finalproject_architecture" src="https://user-images.githubusercontent.com/105893642/202242436-ce3caf9f-aaba-4269-ab4a-dd0ac27e8359.png">
+
 
 
 <br>
