@@ -32,7 +32,7 @@
 ### AI
 | Python | PyTorch | Flask |
 | :----: | :-----: | :---: |
-| <img src="https://user-images.githubusercontent.com/105893642/202218035-25277248-5249-4aa3-a963-32a4d5e74e4a.png" width="90px"> | <img src="https://user-images.githubusercontent.com/105893642/202252271-2529a4ba-4c51-47a4-bdd6-4cbcdc04ed64.png" width="100px"> | <img src="https://user-images.githubusercontent.com/105893642/202218978-4612b90c-e5c1-468f-b397-4055c68f830b.png" width="80px"> |
+| <img src="https://user-images.githubusercontent.com/105893642/202218035-25277248-5249-4aa3-a963-32a4d5e74e4a.png" width="90px"> | <img src="https://user-images.githubusercontent.com/105893642/202252672-d04efd85-edf0-4a80-843a-f22568a36a88.png" width="100px"> | <img src="https://user-images.githubusercontent.com/105893642/202218978-4612b90c-e5c1-468f-b397-4055c68f830b.png" width="80px"> |
 
 ### DB
 | MySQL |
