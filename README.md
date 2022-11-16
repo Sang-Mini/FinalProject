@@ -2,7 +2,7 @@
 
 <p align="center">
   <br>
-  <img src="https://user-images.githubusercontent.com/105893642/202247324-75dd27ed-09a4-445e-a61e-28d030237188.gif">
+  <img src="https://user-images.githubusercontent.com/105893642/202248430-780b1497-c8e0-4059-af23-7b47eaf0f3c4.gif">
   <br>
   welcome 페이지
   <br>
