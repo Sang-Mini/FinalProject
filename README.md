@@ -37,18 +37,55 @@
 ## 🚀 구현 기능
 
 ### 로그인
+<p align="center">
+  <br>
+  <img src="https://user-images.githubusercontent.com/105893642/202228738-44b95a11-93af-48e9-b970-7a22d0d11576.png"> 
+  로그인 화면
+  <br>
+</p>
 
 ### 회원가입
+<p align="center">
+  <br>
+  <img src="https://user-images.githubusercontent.com/105893642/202229374-ecccddaa-02ef-42c9-9312-326a2585acd1.png"> 
+  회원가입 화면
+  <br>
+</p>
 
 ### 아이디 찾기
+<p align="center">
+  <br>
+  <img src="https://user-images.githubusercontent.com/105893642/202229952-f9690c4d-9a42-4758-a281-2663fcd44f9f.png"> 
+  아이디 찾기 화면
+  <br>
+</p>
 
 ### 비밀번호 찾기
+<p align="center">
+  <br>
+  <img src="https://user-images.githubusercontent.com/105893642/202230417-5301f68a-11e7-4e61-8d67-6fcb8734857c.png"> 
+  비밀번호 찾기 화면
+  <br>
+</p>
 
 ### 비밀번호 변경하기
+<p align="center">
+  <br>
+  <img src="https://user-images.githubusercontent.com/105893642/202230829-37bbd507-8f07-4487-8864-3b68a4298238.png">
+  비밀번호 변경하기 화면
+  <br>
+</p>
 
 ### 이미지 업로드 및 크롤링
+<p align="center">
+  <br>
+  <img src="https://user-images.githubusercontent.com/105893642/202231224-8b042dcf-574e-4e25-9a80-6259b7b7c4d0.png">
+  이미지 업로드 화면
+  <br>
+</p>
 
 <br>
+
 
 ## 배운 점 & 아쉬운 점
 
