@@ -44,6 +44,9 @@
   <br>
 </p>
 
+>로그인 기능 설명
+>>ID, PW 입력 후 로그인 버튼 
+
 ### 회원가입
 <p align="center">
   <br>
@@ -81,6 +84,14 @@
   <br>
   <img src="https://user-images.githubusercontent.com/105893642/202231224-8b042dcf-574e-4e25-9a80-6259b7b7c4d0.png">
   이미지 업로드 화면
+  <br>
+</p>
+
+### 크롤링 결과
+<p align="center">
+  <br>
+  <img src="https://user-images.githubusercontent.com/105893642/202232393-2a21c32c-06c3-476c-b43f-640e9f53a6c2.png">
+  크롤링 결과 화면
   <br>
 </p>
 
